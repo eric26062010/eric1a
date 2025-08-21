@@ -3,7 +3,7 @@ background-color: rgb(40, 40, 92);
 color: black;  
 } 
 section{
-    background-color: black;
+    background-color: red;
     padding-top:80px ;
     padding-bottom:80px ;
     display: flex;
