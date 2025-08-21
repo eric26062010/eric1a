@@ -12,13 +12,13 @@ section{
 chamada-texto {
     margin: right 40px;
 }
-img;{
-    height:200px;
+img{
+    height:200px ;
 }
-chamada-video{
-display: flex;
-overflow-x: auto;
-gap:10px ;
+.chamada-video{
+    display:flex ;
+    overflow-x: auto;
+    gap:10px ;
 }
     
 
