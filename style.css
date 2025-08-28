@@ -5,8 +5,8 @@ font-family: Story Script;
 } 
 section{
     background-color: blueviolet;
-    padding-top:80px ;
-    padding-bottom:80px ;
+    padding-top:100px ;
+    padding-bottom:100px ;
     display: flex;
     justify-content: center;
     padding-left: 20px;
